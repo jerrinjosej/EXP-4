@@ -1,4 +1,4 @@
-<img width="759" height="656" alt="Screenshot 2025-10-18 203804" src="https://github.com/user-attachments/assets/7450d0f1-a4d6-49ab-82e6-6c0a38e5afc7" /># EXP-4
+# EXP-4
 EXP. NO. 4. 		HALFWAVE  AND FULL WAVE  RECTIFIERS
 
 AIM: To study the characteristics of half wave, full wave and bridge rectifier with and without filter and calculate the ripple factor, rectification efficiency and % regulation.
