@@ -1,4 +1,4 @@
-# EXP-4
+<img width="759" height="656" alt="Screenshot 2025-10-18 203804" src="https://github.com/user-attachments/assets/7450d0f1-a4d6-49ab-82e6-6c0a38e5afc7" /># EXP-4
 EXP. NO. 4. 		HALFWAVE  AND FULL WAVE  RECTIFIERS
 
 AIM: To study the characteristics of half wave, full wave and bridge rectifier with and without filter and calculate the ripple factor, rectification efficiency and % regulation.
@@ -44,44 +44,45 @@ Half wave rectifier with filter and without filter:
 <img width="1192" height="565" alt="Screenshot 2025-10-11 181716" src="https://github.com/user-attachments/assets/1ec3689e-f90d-4614-9e1c-3c31e7d15f47" />
 
 
-
-<img width="645" height="334" alt="Screenshot 2025-10-11 183728" src="https://github.com/user-attachments/assets/2ddef7e2-e638-4202-8e48-a9e3e039bd02" />
-
+<img width="715" height="829" alt="Screenshot 2025-10-18 203515" src="https://github.com/user-attachments/assets/f386524b-e25f-4dc7-885a-768e19025355" />
 
 
-<img width="680" height="491" alt="Screenshot 2025-10-11 181756" src="https://github.com/user-attachments/assets/e2ffb922-ab68-4728-906e-6788a5d50cfd" />
 
 
 Bridge rectifier with filter and without filter:
 
 <img width="1193" height="786" alt="Screenshot 2025-10-11 181842" src="https://github.com/user-attachments/assets/cac1486a-484a-478f-b7cf-ca79ba90e31f" />
 
-<img width="738" height="905" alt="Screenshot 2025-10-11 181903" src="https://github.com/user-attachments/assets/faa1a826-2d92-44aa-b265-ab7607deaead" />
+
+<img width="759" height="656" alt="Screenshot 2025-10-18 203804" src="https://github.com/user-attachments/assets/d72d82a4-efd9-4718-81d5-00310aafe3b6" />
 
 
 TABULAR COLUMN
 
 Half wave rectifier with filter and without filter:
 
-<img width="674" height="162" alt="Screenshot 2025-10-11 182346" src="https://github.com/user-attachments/assets/821f2abf-eac3-4e4d-ba95-b13a3b5fdff5" />
+<img width="766" height="246" alt="Screenshot 2025-10-18 203956" src="https://github.com/user-attachments/assets/1693b232-36cc-45c6-a600-c20fffcd0459" />
 
 TABULAR COLUMN
 
 Bridge rectifier with filter and without filter:
 
-<img width="660" height="214" alt="Screenshot 2025-10-11 182335" src="https://github.com/user-attachments/assets/b7d9a5bf-ed46-4720-af39-f3a2db2db721" />
+<img width="762" height="313" alt="Screenshot 2025-10-18 204129" src="https://github.com/user-attachments/assets/39e130eb-5a46-4ba1-bf8a-a1e502074d30" />
+
 
 WAVEFORM:
 
 
 Half wave rectifier with filter and without filter:
-<img width="1189" height="281" alt="Screenshot 2025-10-11 181926" src="https://github.com/user-attachments/assets/77c424a7-afbe-467c-a089-f0d1bd1d7b0e" />
+
+<img width="751" height="222" alt="Screenshot 2025-10-18 204253" src="https://github.com/user-attachments/assets/129c9b0e-a0dc-4322-a643-001159292215" />
+
 
 
 Bridge rectifier with filter and without filter:
 
+<img width="755" height="340" alt="Screenshot 2025-10-18 204340" src="https://github.com/user-attachments/assets/c6ca8e17-7714-4941-a3fb-fc0acc33dd51" />
 
-<img width="1201" height="349" alt="Screenshot 2025-10-11 181937" src="https://github.com/user-attachments/assets/9838551d-d575-4c69-acc1-7f63fc6e824f" />
 
 
 
